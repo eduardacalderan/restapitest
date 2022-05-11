@@ -264,12 +264,6 @@
               "dataHora_Gerado": "13/10/2021 18:37:29",
               "dataHora_Processado": "13/10/2021 18:38:30",
               "Descricao": "INTERNAL SERVER ERROR"
-            },
-            {
-              "id_Integra": "5",
-              "dataHora_Gerado": "10/10/2021 18:37:29",
-              "dataHora_Processado": "10/10/2021 18:38:30",
-              "Descricao": "INTERNAL SERVER ERROR"
             }
           ]
         },
