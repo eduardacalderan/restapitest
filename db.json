@@ -6,7 +6,11 @@
       "dh_ultimoregistro": "14/10/2021 10:15:04",
       "erros": "0",
       "sucesso": "35",
-      "aguardando": "0"
+      "aguardando": "0",
+      "sn_active": "Ativo",
+      "id_multi_companies": "2",
+      "nr_min_notifies": 2,
+      "id_third_system": 2
     },
     {
       "id": 2,
@@ -14,7 +18,11 @@
       "dh_ultimoregistro": "14/10/2021 11:01:34",
       "erros": "0",
       "sucesso": "10",
-      "aguardando": "0"
+      "aguardando": "0",
+      "sn_active": "Ativo",
+      "id_multi_companies": "1",
+      "nr_min_notifies": 3,
+      "id_third_system": 1
     },
     {
       "id": 3,
@@ -22,7 +30,11 @@
       "dh_ultimoregistro": "14/10/2021 08:10:23",
       "erros": "1",
       "sucesso": "5",
-      "aguardando": "15"
+      "aguardando": "15",
+      "sn_active": "Inativo",
+      "id_multi_companies": "3",
+      "nr_min_notifies": 1,
+      "id_third_system": 3
     },
     {
       "id": 4,
@@ -30,7 +42,11 @@
       "dh_ultimoregistro": "14/10/2021 09:11:01",
       "erros": "0",
       "sucesso": "30",
-      "aguardando": "0"
+      "aguardando": "0",
+      "sn_active": "Ativo",
+      "id_multi_companies": "2",
+      "nr_min_notifies": 2,
+      "id_third_system": 2
     },
     {
       "id": 5,
@@ -38,7 +54,11 @@
       "dh_ultimoregistro": "14/10/2021 10:15:29",
       "erros": "2",
       "sucesso": "30",
-      "aguardando": "10"
+      "aguardando": "10",
+      "sn_active": "Inativo",
+      "id_multi_companies": "6",
+      "nr_min_notifies": 2,
+      "id_third_system": 2
     },
     {
       "id": 6,
@@ -46,7 +66,11 @@
       "dh_ultimoregistro": "14/10/2021 11:10:10",
       "erros": "3",
       "sucesso": "30",
-      "aguardando": "0"
+      "aguardando": "0",
+      "sn_active": "Ativo",
+      "id_multi_companies": "2",
+      "nr_min_notifies": 2,
+      "id_third_system": 4
     },
     {
       "id": 7,
@@ -54,7 +78,11 @@
       "dh_ultimoregistro": "14/10/2021 13:16:01",
       "erros": "1",
       "sucesso": "20",
-      "aguardando": "10"
+      "aguardando": "10",
+      "sn_active": "Ativo",
+      "id_multi_companies": "5",
+      "nr_min_notifies": 5,
+      "id_third_system": 2
     },
     {
       "id": 8,
@@ -62,7 +90,11 @@
       "dh_ultimoregistro": "14/10/2021 14:11:13",
       "erros": "4",
       "sucesso": "10",
-      "aguardando": "0"
+      "aguardando": "0",
+      "sn_active": "Ativo",
+      "id_multi_companies": "4",
+      "nr_min_notifies": 4,
+      "id_third_system": 5
     }
   ],
 
