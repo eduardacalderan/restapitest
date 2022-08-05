@@ -174,12 +174,6 @@
               "dataHora_Gerado": "10/10/2021 18:35:29",
               "dataHora_Processado": "10/10/2021 18:35:30",
               "Descricao": "A resposta de erro nao contem a TAG [<motivoErro>]. Resposta do WebService:<html><head><title>504 Gateway Time-out</title></head><body><center><h1>504 Gateway Time-out</h1></center></body></html>"
-            },
-            {
-              "id_Integra": "5",
-              "dataHora_Gerado": "14/10/2021 10:37:29",
-              "dataHora_Processado": "14/10/2021 10:38:30",
-              "Descricao": "A resposta de erro nao contem a TAG [<motivoErro>]. Resposta do WebService:<html><head><title>504 Gateway Time-out</title></head><body><center><h1>504 Gateway Time-out</h1></center></body></html>"
             }
           ]
         }
